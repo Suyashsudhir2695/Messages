@@ -1,2 +1,2 @@
 # Messages
-One to one chat. Backend - Firebase
+An android app on One to one chat. Backend - Firebase
